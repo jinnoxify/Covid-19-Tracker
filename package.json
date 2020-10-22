@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Juandlc25.github.io/covid19-tracker",
+  "homepage": "http://jinnoxify.github.io/Covid-19-Tracker",
   "name": "covid-tracker",
   "version": "0.1.0",
   "private": true,
@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
